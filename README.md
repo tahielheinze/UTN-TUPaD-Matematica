@@ -1,4 +1,4 @@
-# **💻 Programación 1**
+# **💻 Matemática**
 Tecnicatura Universitaria en Programación
 
 *📍 Universidad Tecnológica Nacional*
@@ -9,7 +9,7 @@ Nombre: Tahiel Noé Heinze
 Comisión: M2025-3
 
 # **📂 Descripción del Repositorio**
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Matemática.
 
 # **📌 Estructura del repositorio:**
 
